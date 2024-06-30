@@ -15,9 +15,9 @@ The AI Image Generator is a powerful tool designed to create images using artifi
 
 - **Programming Language**: Python
 - **Machine Learning Framework**: TensorFlow/PyTorch
-- **Web Framework**: Flask/Django (if applicable)
-- **Database**: SQLite/PostgreSQL (if applicable)
-- **Frontend**: HTML/CSS/JavaScript (if applicable)
+- **Web Framework**: Flask/Django
+- **Database**: SQLite/PostgreSQL
+- **Frontend**: HTML/CSS/JavaScript
 - **Deployment**: Docker/AWS/GCP
 
 ## Installation
